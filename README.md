@@ -1,6 +1,6 @@
 <h1>César Lemos</h1> <br>
 -> Técnico DevSys 1/4 (SENAI/SC - FLN)   <br>
--> Foco em desenvolvimento de aplicações para gerenciamento de máquinas e tarefas de manutenção eletromecânica <br> <br>
+-> Ênfase em desenvolvimento de aplicações para gerenciamento de máquinas e tarefas de manutenção eletromecânica <br> <br>
 
 <div align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ambientevirtual&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
